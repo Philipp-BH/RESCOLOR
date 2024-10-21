@@ -3,16 +3,16 @@ A resistor color band calculator for the TI-84 Plus CE
 
 Supports 4, 5, or 6 band resistor color codes
 
-# Compatibility
+# COMPATIBILITY
 Currently only tested for the TI-84 Plus CE.
 Written in TI-Basic and uses color display functionality; if your TI calculator supports this then there is a chance it will work for you as well.
 
-# Installation
+# INSTALLATION
 1. Download the RESCOLOR.8xp file.
 2. Load RESCOLOR.8xp onto your calculator using the [TI Connect CE (TM)](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) application from Texas Instruments. It is recommended that you load the file into the archive and not the RAM, so that it is persistent.
 3. The file will appear under the **prgm** button.
 
-# User Guide
+# USER GUIDE
 ## Main Menu
 Use the up and down arrows to scroll, and **Enter** to select.
 
@@ -30,5 +30,5 @@ Press **Enter** to return to the Main Menu
 ## Quit
 Quit exits the program, clears the drawn items, and resets the graph settings to the TI default.
 
-# Known Issues
+# KNOWN ISSUES
 Some invalid inputs are not properly handled, and cause an error, stopping the program. This is never an issue if resistor color codes are inputted correctly.
