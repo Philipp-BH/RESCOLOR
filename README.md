@@ -1,3 +1,5 @@
+Likely poorly written, this was an entirely unassisted project intended to be a learning experience in Basic. Safe, pretty convenient, but a mediocre implementation.
+
 # RESCOLOR
 A resistor color band calculator for the TI-84 Plus CE
 
